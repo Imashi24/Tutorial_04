@@ -3,6 +3,8 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 print("Hey how are you doing?")
 x=input("name: ")
+name="hey"
+print(name)
 
 
 
